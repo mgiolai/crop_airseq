@@ -10,3 +10,5 @@
 **air-seq_sequencing-read-preparation:** A script to adaptor trim and deduplicate the Air-seq reads.
 
 **prepare-PHIbase-genomes:** R script to download the PHI-base v4.12 pathogen species reference genomes from NCBI RefSeq and GenBank.
+
+**air-seq_megahit-assembly:** Script to megahit assemble contigs from Air-seq reads and map contigs to PHIbase or selected plant genomes.
